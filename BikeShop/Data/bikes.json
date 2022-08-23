@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 1,
+    "name" : "AVAIL AR 1",
+    "image" : "Avail_AR_1",
+    "price" : 1950,
+    "category" : "Road Bikes",
+    "description" : "Comfort: The lightweight ALUXX frame features the latest women’s endurance geometry with an Advanced-Grade Composite fork and D-Fuse seatpost to diminish vibrations."
+  },
+  {
+    "id" : 2,
+    "name" : "CAAD OPTIMO 4",
+    "image" : "CAAD_OPTIMO_4",
+    "price" : 999,
+    "category" : "Road Bikes",
+    "description" : "Where Performance Takes Off. A true performance road bike with race-winning DNA – delivering champagne experience for lemonade money. Where it thrives: The open road, In competition What it's built for: Speed, Handling, Durability. FEATURES: Exceptional Aluminum Performance: Everything we know about aluminum road bikes in one space – refined tube profiles, precision butting, and double-pass welds create frames that are lighter and ride better than our competitors’ high-ticket alloy offerings. Elite Race Geometry: With geometry influenced directly from our award-winning CAAD13 bike, the CAAD Optimo offers true race handling and optimal body position at all times. Ride Smoother with SAVE: Along with Optimo’s new dropped seatstay profile, finely engineered flex zones in the rear of the frame absorb road chatter for better comfort and control."
+  },
+  {
+    "id" : 3,
+    "name" : "Salsa Journeyer GRX 600 650b Bike",
+    "image" : "Salsa_Journeyer",
+    "price" : 800,
+    "category" : "Adventure Bikes",
+    "description" : "Your gateway to all-road adventures, the Salsa Journeyer GRX 600 650b bike is built for comfort and confidence on any road surface. Plus, its versatile cargo carrying options extend your riding range. New bikes go through a normal break-in period, after which they should be readjusted. All bicycles sold at REI include free adjustments for one year after purchase date—as many times as you need. Included: derailleur and brake adjustments, lateral wheel truing, hub and headset bearing adjustments, tire inflation and chain lubrication. Not included: replacement or installation of new components or accessories, any other services. Call your local REI Co-op Bike Shop for more information."
+  },
+  {
+    "id" : 4,
+    "name" : "MUTT ST GRY 450 650c ZRT Bike",
+    "image" : "MUTT_ST",
+    "price" : 2899,
+    "category" : "Adventure Bikes",
+    "description" : "The MUTT ST is a classic steel edition within our all-road MUTT range, perfect for the serious commuter or long-distance cyclist. Built with a high-quality Tange Prestige frame and custom shaped tubes for maximum comfort. The MUTT ST has a wide-range drivetrain with a 48/32 chainset and 11-32 11 speed cassette. Matching aluminum fenders protect you from unexpected rain while supple 650b-47 tires offer a smooth ride. Efficient and reliable with a touch of cycling heritage. It’s an obvious choice for the sophisticated super commuter."
+  }
+]

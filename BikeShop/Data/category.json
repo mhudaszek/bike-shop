@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "name" : "Adventure Bikes",
+        "description" : "Drop-bar bikes with clearance for multiple tire sizes for a range of riding experiences on- and off-road. Styles include gravel, bikepacking, and cyclocross."
+    },
+    {
+        "id" : 2,
+        "name" : "Road Bikes",
+        "description" : "Lightweight, efficient bikes with drop handlebars and narrow tires, for recreational riding mostly (but not exclusively) on paved surfaces. Styles include aero, ultralight, endurance, touring, and all-road."
+    },
+    {
+        "id" : 3,
+        "name" : "Mountain Bikes",
+        "description" : "Rugged machines with flat handlebars and wide, knobby tires for riding narrow dirt trails. Styles include hardtail, full-suspension cross-country, full-suspension trail, and full-suspension enduro."
+    },
+    {
+        "id" : 4,
+        "name" : "Triathlon Bikes",
+        "description" : "Road-style bikes built to optimize aerodynamics a with wing-shaped frame, wheel cross-sections, and aggressive rider positions."
+    },
+    {
+        "id" : 5,
+        "name" : "E-Bikes",
+        "description" : "Electronic bicycles can be bikes from almost any of the other categories covered here and, designed with a small, lightweight electric motor to assist the rider. Styles include commuter, cargo, mountain, and road."
+    },
+    {
+        "id" : 6,
+        "name" : "Utility Bikes",
+        "description" : "Bikes designed for practical cycling while commuting or running errands, including tasks that involve carrying family members or cargo. Styles include commuter, fixie, folding, and cargo."
+    },
+    {
+        "id" : 7,
+        "name" : "Fitness Bikes",
+        "description" : "Everything from beach cruisers to flat-bar bikes for weekend spins on multi-use paths. Styles include hybrid, fitness, comfort, and cruiser."
+    },
+    {
+        "id" : 8,
+        "name" : "Fat Bikes",
+        "description" : "These head-turning bikes feature 3.8-inch wide or wider tires for flotation and traction, often for use in sand, snow, or on the trail. Styles include mountain (hardtail and full suspension) and cruiser."
+    },
+    {
+        "id" : 9,
+        "name" : "Tandem Bikes",
+        "description" : "Tandems are bicycles built for two (or more) riders, and thus are often built with reinforced frames and components to handle the extra weight. The rider in front is called the pilot; the rear is referred to as the stoker. Tandem bikes come in several styles, including road, mountain, and cruiser, but road is the most common."
+    },
+    {
+        "id" : 10,
+        "name" : "BMX Bikes",
+        "description" : "Just because they often have small wheels doesn’t mean they’re only for kids. These bikes are found in styles for racing, freestyle, or riding wheelies. They feature one gear and are built tough to withstand jumps and crashes."
+    },
+    {
+        "id" : 11,
+        "name" : "Kids Bikes",
+        "description" : "Get your little ones into the action with a great kid’s bike. There are all kinds of options, even dedicated road and full-suspension mountain bikes built for small riders. Higher quality means lighter weight and kid-friendly parts, so your child has more fun riding. And you can start them earlier than ever now that pedal-less “balance” bikes have largely replaced tricycles as a toddler’s first ride."
+    }
+]
